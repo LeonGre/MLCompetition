@@ -1,7 +1,7 @@
 # MLCompetition
 
-##Classification
+## Classification
 
 
 ---
-##Rergression
+## Regression
