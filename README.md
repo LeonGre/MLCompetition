@@ -2,7 +2,7 @@
 
 ## Classification
 how to make a Prediction:
-- run SubmissionNr1.py/SubmissionNr2.py to calculate the predictions of the model
+- run SubmissionNr1.py/SubmissionNr2.py to calculate the predictions
 - you can find the final predictions in classification-data/test_label.csv
 
 ---
