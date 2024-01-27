@@ -8,6 +8,7 @@ how to make a Prediction:
 
 ---
 ## Regression
+If you want to use the whole model make sure you updated smac to at least v2.0.2
 how to make a Prediction:
 - just start Models/ensemble_trainer.py
 - have some time
