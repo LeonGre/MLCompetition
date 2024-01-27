@@ -6,9 +6,9 @@ from sklearn.metrics import mean_squared_error
 from smac import MultiFidelityFacade as MFFacade, Scenario
 from smac import HyperparameterOptimizationFacade as HPOFacade
 
-import load_datasets
-from Models.train_regression_model import train_regression_model
-from train_svdpp_model import train_svdpp_model
+from Regression import load_datasets
+from Regression.Models.train_regression_model import train_regression_model
+from Regression.train_svdpp_model import train_svdpp_model
 
 
 def time_based_split(data: pd.DataFrame, test_size=0.2):

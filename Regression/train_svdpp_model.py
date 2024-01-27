@@ -6,10 +6,7 @@ import pandas as pd
 import os
 from smac import HyperparameterOptimizationFacade as HPOFacade
 
-import numpy as np
-
-import load_datasets
-from load_datasets import train_df, test_features  # Make sure these are the correct paths
+from Regression import load_datasets
 
 
 def train_svdpp_model(str=""):
@@ -92,7 +89,7 @@ def train_svdpp_model(str=""):
     predictions_df.sort_values('Id', inplace=True)  # Ensure the order is based on 'Id'
     predictions_df.to_csv("./" + str + "regression-data/test_label.csv", index=False)
 
-    print("Predictions saved to svdpp_predictions.csv")
+    print("Predictions saved to test_label.csv")
     return cost  # return the RMSE of the best model
 
 

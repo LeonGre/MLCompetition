@@ -7,7 +7,7 @@ from sklearn.model_selection import RandomizedSearchCV, RepeatedKFold, Stratifie
 from sklearn.metrics import mean_squared_error
 from scipy.stats import randint
 
-import load_datasets
+from Regression import load_datasets
 from feature_engineering import prepare_features, prepare_test_features  # Import the function
 
 
