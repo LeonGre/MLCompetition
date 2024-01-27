@@ -1,7 +1,9 @@
 # MLCompetition
 
 ## Classification
-
+how to make a Prediction:
+- run SubmissionNr1.py/SubmissionNr2.py to calculate the predictions of the model
+- you can find the final predictions in classification-data/test_label.csv
 
 ---
 ## Regression
