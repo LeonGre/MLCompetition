@@ -1,0 +1,1688 @@
+{
+  "stats": {
+    "submitted": 100,
+    "finished": 100,
+    "running": 0
+  },
+  "data": [
+    [
+      1,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.231816,
+      1706326796.2326984,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      2,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.2394543,
+      1706326796.2403347,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      3,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.2498884,
+      1706326796.2507854,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      1,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.2611308,
+      1706326796.2619307,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      4,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.2706923,
+      1706326796.271558,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      3,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.290938,
+      1706326796.2918274,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      2,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.292423,
+      1706326796.293295,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      4,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.3011444,
+      1706326796.3017395,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      1,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.3035467,
+      1706326796.3045924,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      5,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.323815,
+      1706326796.3243868,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      4,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.3345358,
+      1706326796.335413,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      5,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.3449109,
+      1706326796.3457441,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      6,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.353756,
+      1706326796.3545794,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      5,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.3649378,
+      1706326796.3657534,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      6,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.3754373,
+      1706326796.376301,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      7,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.3854585,
+      1706326796.3863385,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      6,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.3955774,
+      1706326796.39632,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      7,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.407221,
+      1706326796.407784,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      8,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.4158983,
+      1706326796.4164424,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      7,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.4275115,
+      1706326796.4283957,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      8,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.4395192,
+      1706326796.44031,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      9,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.4415236,
+      1706326796.4420328,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      10,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.4628046,
+      1706326796.4638221,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      8,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.4778001,
+      1706326796.4789944,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      9,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.484664,
+      1706326796.485833,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      10,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.4934492,
+      1706326796.494035,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      11,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.503514,
+      1706326796.5044367,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      9,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.5257533,
+      1706326796.5268157,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      10,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.536779,
+      1706326796.537525,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      11,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.538122,
+      1706326796.5388005,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      12,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.5462456,
+      1706326796.5469494,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      11,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.566646,
+      1706326796.5672903,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      12,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.5787332,
+      1706326796.5795088,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      13,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.5802047,
+      1706326796.580801,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      14,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.5986524,
+      1706326796.5994165,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      12,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.609056,
+      1706326796.6096904,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      13,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.6110556,
+      1706326796.611537,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      14,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.6304412,
+      1706326796.6311276,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      13,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.6421306,
+      1706326796.6429167,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      15,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.644321,
+      1706326796.6452243,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      14,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.6636927,
+      1706326796.6642978,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      15,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.685824,
+      1706326796.6865845,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      16,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.6946661,
+      1706326796.6953106,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      17,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.708447,
+      1706326796.709238,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      15,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.7152267,
+      1706326796.715823,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      16,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.7307358,
+      1706326796.73151,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      17,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.7472837,
+      1706326796.7479024,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      16,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.7574644,
+      1706326796.7582223,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      18,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.7591748,
+      1706326796.7597501,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      17,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.7786608,
+      1706326796.7791471,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      18,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.790069,
+      1706326796.7906356,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      19,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.7917678,
+      1706326796.7923558,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      20,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.8123279,
+      1706326796.8130155,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      18,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.8263867,
+      1706326796.8269749,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      19,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.8284519,
+      1706326796.8290882,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      20,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.843471,
+      1706326796.8442852,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      19,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.8559985,
+      1706326796.8576543,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      20,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326796.8879883,
+      1706326796.888674,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      21,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.1943176,
+      1706326797.1950169,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      22,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.2088041,
+      1706326797.209387,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      21,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.225278,
+      1706326797.2259302,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      22,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.227251,
+      1706326797.227846,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      23,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.2351615,
+      1706326797.2358205,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      21,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.2456923,
+      1706326797.246265,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      22,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.2641213,
+      1706326797.2647777,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      23,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.2815464,
+      1706326797.2825687,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      24,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.2829638,
+      1706326797.2841458,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      25,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.2895434,
+      1706326797.2905152,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      23,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.3063204,
+      1706326797.3075542,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      24,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.3215704,
+      1706326797.3226745,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      25,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.3319216,
+      1706326797.3325915,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      24,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.347652,
+      1706326797.3487537,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      25,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.3624,
+      1706326797.363099,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      26,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.3713582,
+      1706326797.3718724,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      27,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.3735805,
+      1706326797.3744621,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      28,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.3926973,
+      1706326797.3933904,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      26,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.4025161,
+      1706326797.4030972,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      27,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.40451,
+      1706326797.4053998,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      28,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.4234295,
+      1706326797.4241245,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      26,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.4326978,
+      1706326797.4335117,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      27,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.4345193,
+      1706326797.4351366,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      28,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.4479997,
+      1706326797.448485,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      29,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.6926541,
+      1706326797.6935718,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      30,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.713624,
+      1706326797.714449,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      29,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.7226167,
+      1706326797.723302,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      31,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.7254777,
+      1706326797.726347,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      30,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.7444904,
+      1706326797.7453775,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      29,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.7646403,
+      1706326797.7654665,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      31,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.7769258,
+      1706326797.777722,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      30,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.7785547,
+      1706326797.7790446,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      32,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.797408,
+      1706326797.7980306,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      31,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.8065717,
+      1706326797.8073204,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      32,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.8216789,
+      1706326797.822173,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      33,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.8277118,
+      1706326797.828355,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      34,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.8385727,
+      1706326797.8392909,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      32,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.8491497,
+      1706326797.850028,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      33,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.860883,
+      1706326797.8613756,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      34,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.871756,
+      1706326797.872383,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      35,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.8835886,
+      1706326797.8843267,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ],
+    [
+      33,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706326797.894287,
+      1706326797.8949792,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 23, in ensemble_error\n    weights = weights / sum(weights)\nTypeError: unsupported operand type(s) for +: 'int' and 'str'\n",
+        "error": "TypeError(\"unsupported operand type(s) for +: 'int' and 'str'\")"
+      }
+    ]
+  ],
+  "configs": {
+    "1": {
+      "weight1": 0.2668785210698843,
+      "weight2": 0.6205646954476833
+    },
+    "2": {
+      "weight1": 0.6341031137853861,
+      "weight2": 0.21299850568175316
+    },
+    "3": {
+      "weight1": 0.8783407658338547,
+      "weight2": 0.8025208553299308
+    },
+    "4": {
+      "weight1": 0.02679840847849846,
+      "weight2": 0.39514563884586096
+    },
+    "5": {
+      "weight1": 0.24376627150923014,
+      "weight2": 0.9300522236153483
+    },
+    "6": {
+      "weight1": 0.8452418493106961,
+      "weight2": 0.27462226431816816
+    },
+    "7": {
+      "weight1": 0.605218960903585,
+      "weight2": 0.7410996705293655
+    },
+    "8": {
+      "weight1": 0.48793144803494215,
+      "weight2": 0.08549447357654572
+    },
+    "9": {
+      "weight1": 0.4273283528164029,
+      "weight2": 0.8536431714892387
+    },
+    "10": {
+      "weight1": 0.5444921487942338,
+      "weight2": 0.44851838797330856
+    },
+    "11": {
+      "weight1": 0.7887832103297114,
+      "weight2": 0.5357519192621112
+    },
+    "12": {
+      "weight1": 0.18717957939952612,
+      "weight2": 0.13081810902804136
+    },
+    "13": {
+      "weight1": 0.09106766618788242,
+      "weight2": 0.6650838321074843
+    },
+    "14": {
+      "weight1": 0.9427265878766775,
+      "weight2": 0.008189029060304165
+    },
+    "15": {
+      "weight1": 0.7025282196700573,
+      "weight2": 0.9762838669121265
+    },
+    "16": {
+      "weight1": 0.3354235738515854,
+      "weight2": 0.3192138262093067
+    },
+    "17": {
+      "weight1": 0.36603888124227524,
+      "weight2": 0.9375940002501011
+    },
+    "18": {
+      "weight1": 0.7331854738295078,
+      "weight2": 0.34516019001603127
+    },
+    "19": {
+      "weight1": 0.9735784064978361,
+      "weight2": 0.6393048381432891
+    },
+    "20": {
+      "weight1": 0.1219919491559267,
+      "weight2": 0.04668005462735891
+    },
+    "21": {
+      "weight1": 0.8917730007820798,
+      "weight2": 0.08712929970154071
+    },
+    "22": {
+      "weight1": 0.7151893663724195,
+      "weight2": 0.3834415188257777
+    },
+    "23": {
+      "weight1": 0.6458941130666561,
+      "weight2": 0.925596638292661
+    },
+    "24": {
+      "weight1": 0.6027633760716439,
+      "weight2": 0.7917250380826646
+    },
+    "25": {
+      "weight1": 0.5488135039273248,
+      "weight2": 0.9636627605010293
+    },
+    "26": {
+      "weight1": 0.5448831829968969,
+      "weight2": 0.5288949197529045
+    },
+    "27": {
+      "weight1": 0.4375872112626925,
+      "weight2": 0.07103605819788694
+    },
+    "28": {
+      "weight1": 0.4236547993389047,
+      "weight2": 0.5680445610939323
+    },
+    "29": {
+      "weight1": 0.02021839744032572,
+      "weight2": 0.11827442586893322
+    },
+    "30": {
+      "weight1": 0.7991585642167236,
+      "weight2": 0.4146619399905236
+    },
+    "31": {
+      "weight1": 0.7781567509498505,
+      "weight2": 0.1433532874090464
+    },
+    "32": {
+      "weight1": 0.978618342232764,
+      "weight2": 0.5218483217500717
+    },
+    "33": {
+      "weight1": 0.8700121482468192,
+      "weight2": 0.9446689170495839
+    },
+    "34": {
+      "weight1": 0.832619845547938,
+      "weight2": 0.6399210213275238
+    },
+    "35": {
+      "weight1": 0.45615033221654855,
+      "weight2": 0.5684339488686485
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial Design: Sobol",
+    "3": "Initial Design: Sobol",
+    "4": "Initial Design: Sobol",
+    "5": "Initial Design: Sobol",
+    "6": "Initial Design: Sobol",
+    "7": "Initial Design: Sobol",
+    "8": "Initial Design: Sobol",
+    "9": "Initial Design: Sobol",
+    "10": "Initial Design: Sobol",
+    "11": "Initial Design: Sobol",
+    "12": "Initial Design: Sobol",
+    "13": "Initial Design: Sobol",
+    "14": "Initial Design: Sobol",
+    "15": "Initial Design: Sobol",
+    "16": "Initial Design: Sobol",
+    "17": "Initial Design: Sobol",
+    "18": "Initial Design: Sobol",
+    "19": "Initial Design: Sobol",
+    "20": "Initial Design: Sobol",
+    "21": "Acquisition Function Maximizer: Random Search (sorted)",
+    "22": "Acquisition Function Maximizer: Random Search (sorted)",
+    "23": "Acquisition Function Maximizer: Random Search (sorted)",
+    "24": "Acquisition Function Maximizer: Random Search (sorted)",
+    "25": "Acquisition Function Maximizer: Random Search (sorted)",
+    "26": "Acquisition Function Maximizer: Random Search (sorted)",
+    "27": "Acquisition Function Maximizer: Random Search (sorted)",
+    "28": "Acquisition Function Maximizer: Random Search (sorted)",
+    "29": "Acquisition Function Maximizer: Random Search (sorted)",
+    "30": "Acquisition Function Maximizer: Random Search (sorted)",
+    "31": "Acquisition Function Maximizer: Random Search (sorted)",
+    "32": "Acquisition Function Maximizer: Random Search (sorted)",
+    "33": "Acquisition Function Maximizer: Random Search (sorted)",
+    "34": "Acquisition Function Maximizer: Random Search (sorted)",
+    "35": "Random Search"
+  }
+}

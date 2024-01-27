@@ -1,0 +1,1923 @@
+{
+  "stats": {
+    "submitted": 113,
+    "finished": 98,
+    "running": 15
+  },
+  "data": [
+    [
+      1,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.3693333,
+      1706368663.4690108,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      2,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.3799744,
+      1706368663.1412127,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      3,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.3829453,
+      1706368662.799424,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      4,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.3934197,
+      1706368663.4322424,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      5,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.4058619,
+      1706368663.5659935,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      6,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.4249303,
+      1706368662.59505,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      7,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.4490857,
+      1706368663.7395859,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      8,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.4759398,
+      1706368663.8208466,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      9,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.502797,
+      1706368663.5676756,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      10,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.5367224,
+      1706368663.4521294,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      11,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.5970948,
+      1706368663.4811409,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      12,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.6725662,
+      1706368663.8332531,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      13,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.775709,
+      1706368663.8317525,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      14,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368652.9581838,
+      1706368663.8035297,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      15,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368653.101676,
+      1706368663.7043388,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      16,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368653.6173573,
+      1706368663.9238088,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      17,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368663.396496,
+      1706368667.789897,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      3,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368663.6423745,
+      1706368667.7750032,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      18,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368663.8382626,
+      1706368667.8623693,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      19,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368663.915746,
+      1706368668.9025562,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      20,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368663.9605427,
+      1706368668.6299407,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      21,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368667.5871017,
+      1706368677.7094178,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      22,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368667.6386826,
+      1706368676.580387,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      23,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368667.6774933,
+      1706368678.0664659,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      24,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368667.712603,
+      1706368676.9149806,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      25,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368667.7425568,
+      1706368677.8098705,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      26,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368667.7791567,
+      1706368677.4557457,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      27,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368667.828659,
+      1706368677.5728378,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      17,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368667.91844,
+      1706368678.161191,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      18,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368667.9751472,
+      1706368677.7768896,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      3,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368668.0534375,
+      1706368678.0080721,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      28,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368668.1639585,
+      1706368678.2116885,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      29,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368669.4933712,
+      1706368679.1216133,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      19,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368669.7043972,
+      1706368679.8304968,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      20,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368669.7841382,
+      1706368680.124315,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      30,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368669.8935924,
+      1706368680.299001,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      31,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368670.0056405,
+      1706368680.0853732,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      32,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368676.9611657,
+      1706368687.7827923,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      22,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368677.4253185,
+      1706368687.5871496,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      24,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368677.579696,
+      1706368687.6125734,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      26,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368677.8710473,
+      1706368687.976535,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      21,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368678.1492078,
+      1706368688.9495041,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      23,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368678.368351,
+      1706368689.128659,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      25,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368678.5776124,
+      1706368689.2806756,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      27,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368678.715074,
+      1706368689.0861006,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      17,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368678.7797854,
+      1706368688.9612043,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      18,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368678.8736527,
+      1706368689.7061415,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      28,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368678.967329,
+      1706368689.314681,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      33,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368679.647496,
+      1706368689.8053613,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      29,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368680.0114553,
+      1706368691.0396938,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      19,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368680.3091989,
+      1706368690.8480778,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      20,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368680.4550617,
+      1706368690.6400168,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      30,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368680.5781348,
+      1706368691.659066,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      31,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368688.000159,
+      1706368698.0653386,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      32,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368688.101874,
+      1706368697.4950724,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      22,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368688.519563,
+      1706368699.395272,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      24,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368688.5639021,
+      1706368698.8652306,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      26,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368689.2280936,
+      1706368699.5541394,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      21,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368689.5125737,
+      1706368700.0064578,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      23,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368689.6657202,
+      1706368700.3543496,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      25,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368689.7953882,
+      1706368700.2853851,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      27,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368689.9139636,
+      1706368700.6152048,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      28,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368690.0571399,
+      1706368700.1214879,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      33,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368690.260843,
+      1706368700.7006278,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      34,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368690.3971481,
+      1706368700.8289013,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      35,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368690.8430338,
+      1706368701.1119568,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      36,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368691.004021,
+      1706368700.8855348,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      37,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368691.4440002,
+      1706368700.8734233,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      29,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368692.0140324,
+      1706368701.28976,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      30,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368697.829834,
+      1706368705.9563713,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      32,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368698.5209637,
+      1706368706.55922,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      31,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368699.3383856,
+      1706368707.701462,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      38,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368701.13984,
+      1706368711.1143441,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      33,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368701.3203547,
+      1706368711.1262195,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      34,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368701.3625505,
+      1706368712.5898585,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      35,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368701.3905456,
+      1706368712.6580634,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      36,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368701.418978,
+      1706368711.3873234,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      37,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368701.4439218,
+      1706368712.3850846,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      39,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368701.4818742,
+      1706368712.292939,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      40,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368701.5334442,
+      1706368711.708613,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      41,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368701.5970144,
+      1706368712.0777912,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      42,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368701.7084482,
+      1706368712.6719785,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      43,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368701.7595713,
+      1706368712.9938514,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      44,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368701.85366,
+      1706368712.5818694,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      45,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368701.959599,
+      1706368713.3155892,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      46,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368706.146659,
+      1706368715.8265939,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      47,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368706.8167403,
+      1706368716.5789063,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      48,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368707.8806837,
+      1706368718.37299,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      49,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368711.5185068,
+      1706368721.4330955,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      38,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368711.8569996,
+      1706368722.7342017,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      36,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368712.008782,
+      1706368722.0901558,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      40,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368712.0552742,
+      1706368723.516189,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      50,
+      null,
+      1049881784,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368712.3401642,
+      1706368722.845265,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      41,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368712.654736,
+      1706368723.034823,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      37,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368712.7424014,
+      1706368723.160165,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      34,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368713.026825,
+      1706368723.2072074,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      35,
+      null,
+      1121787521,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368713.1221411,
+      1706368723.9965296,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      39,
+      null,
+      1322340095,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      42,
+      null,
+      1322340095,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      43,
+      null,
+      1322340095,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      44,
+      null,
+      1322340095,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706368713.8152506,
+      1706368723.63665,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 50, in ensemble_error\n    error = mean_squared_error(validation_targets, final_predictions, squared=False)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/_param_validation.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 474, in mean_squared_error\n    y_type, y_true, y_pred, multioutput = _check_reg_targets(\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/metrics/_regression.py\", line 99, in _check_reg_targets\n    check_consistent_length(y_true, y_pred)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/sklearn/utils/validation.py\", line 409, in check_consistent_length\n    raise ValueError(\nValueError: Found input variables with inconsistent numbers of samples: [161130, 21824]\n",
+        "error": "ValueError('Found input variables with inconsistent numbers of samples: [161130, 21824]')"
+      }
+    ],
+    [
+      45,
+      null,
+      1322340095,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      46,
+      null,
+      1322340095,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      47,
+      null,
+      1322340095,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      48,
+      null,
+      1322340095,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      49,
+      null,
+      1322340095,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      51,
+      null,
+      1049881784,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      38,
+      null,
+      1121787521,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      50,
+      null,
+      1322340095,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      40,
+      null,
+      1121787521,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      41,
+      null,
+      1121787521,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      44,
+      null,
+      1121787521,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      52,
+      null,
+      1049881784,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ]
+  ],
+  "configs": {
+    "1": {
+      "weight1": 0.5680304663255811,
+      "weight2": 0.5918060373514891
+    },
+    "2": {
+      "weight1": 0.4284742698073387,
+      "weight2": 0.290918986313045
+    },
+    "3": {
+      "weight1": 0.11407832708209753,
+      "weight2": 0.9384639859199524
+    },
+    "4": {
+      "weight1": 0.8825407046824694,
+      "weight2": 0.17880428303033113
+    },
+    "5": {
+      "weight1": 0.7533014984801412,
+      "weight2": 0.778663438744843
+    },
+    "6": {
+      "weight1": 0.234410360455513,
+      "weight2": 0.10423753410577774
+    },
+    "7": {
+      "weight1": 0.2989206677302718,
+      "weight2": 0.6285672215744853
+    },
+    "8": {
+      "weight1": 0.6889054868370295,
+      "weight2": 0.48854035697877407
+    },
+    "9": {
+      "weight1": 0.6560296583920717,
+      "weight2": 0.8865732625126839
+    },
+    "10": {
+      "weight1": 0.3561327448114753,
+      "weight2": 0.2463266970589757
+    },
+    "11": {
+      "weight1": 0.17065060883760452,
+      "weight2": 0.5206567998975515
+    },
+    "12": {
+      "weight1": 0.8416413413360715,
+      "weight2": 0.3464498845860362
+    },
+    "13": {
+      "weight1": 0.9619695786386728,
+      "weight2": 0.6958094937726855
+    },
+    "14": {
+      "weight1": 0.0414075767621398,
+      "weight2": 0.4369145166128874
+    },
+    "15": {
+      "weight1": 0.47701919078826904,
+      "weight2": 0.8344596968963742
+    },
+    "16": {
+      "weight1": 0.5264875115826726,
+      "weight2": 0.03280767798423767
+    },
+    "17": {
+      "weight1": 0.5482188379392028,
+      "weight2": 0.849547702819109
+    },
+    "18": {
+      "weight1": 0.4394853953272104,
+      "weight2": 0.017620460130274296
+    },
+    "19": {
+      "weight1": 9.707827121019363e-05,
+      "weight2": 0.7451821509748697
+    },
+    "20": {
+      "weight1": 0.987736701965332,
+      "weight2": 0.3876563897356391
+    },
+    "21": {
+      "weight1": 0.7660048217677886,
+      "weight2": 0.42349063475919624
+    },
+    "22": {
+      "weight1": 0.595858961655007,
+      "weight2": 0.006201953243879288
+    },
+    "23": {
+      "weight1": 0.4013743910062473,
+      "weight2": 0.8985241405751871
+    },
+    "24": {
+      "weight1": 0.34066680315536413,
+      "weight2": 0.49663282768486505
+    },
+    "25": {
+      "weight1": 0.3139394157526928,
+      "weight2": 0.1872709539274514
+    },
+    "26": {
+      "weight1": 0.2611865111043101,
+      "weight2": 0.25652719460329965
+    },
+    "27": {
+      "weight1": 0.24444464823515177,
+      "weight2": 0.9926541304903723
+    },
+    "28": {
+      "weight1": 0.2293334651641581,
+      "weight2": 0.7890940564097859
+    },
+    "29": {
+      "weight1": 0.48009121044711933,
+      "weight2": 0.8114390540773491
+    },
+    "30": {
+      "weight1": 0.7642060975590775,
+      "weight2": 0.5992447059955072
+    },
+    "31": {
+      "weight1": 0.9827494183630332,
+      "weight2": 0.09443166090211419
+    },
+    "32": {
+      "weight1": 0.8634212975114451,
+      "weight2": 0.258948793551805
+    },
+    "33": {
+      "weight1": 0.24351413945517808,
+      "weight2": 0.9547397568213822
+    },
+    "34": {
+      "weight1": 0.4273463978853086,
+      "weight2": 0.9480662945365539
+    },
+    "35": {
+      "weight1": 0.1982442130657105,
+      "weight2": 0.02081118970025564
+    },
+    "36": {
+      "weight1": 0.5270895435112827,
+      "weight2": 0.4336875602680115
+    },
+    "37": {
+      "weight1": 0.5913644435132993,
+      "weight2": 0.7754450178759585
+    },
+    "38": {
+      "weight1": 0.8272312627581185,
+      "weight2": 0.291786421679597
+    },
+    "39": {
+      "weight1": 0.49987595562856846,
+      "weight2": 0.5544020969086605
+    },
+    "40": {
+      "weight1": 0.607327330436547,
+      "weight2": 0.9457087405683613
+    },
+    "41": {
+      "weight1": 0.05458211382684819,
+      "weight2": 0.13691528064929015
+    },
+    "42": {
+      "weight1": 0.15233394240920617,
+      "weight2": 0.4399988497874724
+    },
+    "43": {
+      "weight1": 0.03632531814671203,
+      "weight2": 0.8578795256270377
+    },
+    "44": {
+      "weight1": 0.025314405569205722,
+      "weight2": 0.614235788761779
+    },
+    "45": {
+      "weight1": 0.03990681233759674,
+      "weight2": 0.05433006436976329
+    },
+    "46": {
+      "weight1": 0.8789626742036095,
+      "weight2": 0.742128492625835
+    },
+    "47": {
+      "weight1": 0.5873287645265642,
+      "weight2": 0.018716787005441438
+    },
+    "48": {
+      "weight1": 0.5397921667097209,
+      "weight2": 0.8695679500773281
+    },
+    "49": {
+      "weight1": 0.7355215548051237,
+      "weight2": 0.5470379305341235
+    },
+    "50": {
+      "weight1": 0.8484171922220473,
+      "weight2": 0.9470322784921841
+    },
+    "51": {
+      "weight1": 0.49703935578184477,
+      "weight2": 0.5876124080898228
+    },
+    "52": {
+      "weight1": 0.8783464379503427,
+      "weight2": 0.8878277178935156
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial Design: Sobol",
+    "3": "Initial Design: Sobol",
+    "4": "Initial Design: Sobol",
+    "5": "Initial Design: Sobol",
+    "6": "Initial Design: Sobol",
+    "7": "Initial Design: Sobol",
+    "8": "Initial Design: Sobol",
+    "9": "Initial Design: Sobol",
+    "10": "Initial Design: Sobol",
+    "11": "Initial Design: Sobol",
+    "12": "Initial Design: Sobol",
+    "13": "Initial Design: Sobol",
+    "14": "Initial Design: Sobol",
+    "15": "Initial Design: Sobol",
+    "16": "Initial Design: Sobol",
+    "17": "Initial Design: Sobol",
+    "18": "Initial Design: Sobol",
+    "19": "Initial Design: Sobol",
+    "20": "Initial Design: Sobol",
+    "21": "Acquisition Function Maximizer: Random Search (sorted)",
+    "22": "Acquisition Function Maximizer: Random Search (sorted)",
+    "23": "Acquisition Function Maximizer: Random Search (sorted)",
+    "24": "Acquisition Function Maximizer: Random Search (sorted)",
+    "25": "Acquisition Function Maximizer: Random Search (sorted)",
+    "26": "Acquisition Function Maximizer: Random Search (sorted)",
+    "27": "Acquisition Function Maximizer: Random Search (sorted)",
+    "28": "Acquisition Function Maximizer: Random Search (sorted)",
+    "29": "Acquisition Function Maximizer: Random Search (sorted)",
+    "30": "Acquisition Function Maximizer: Random Search (sorted)",
+    "31": "Acquisition Function Maximizer: Random Search (sorted)",
+    "32": "Acquisition Function Maximizer: Random Search (sorted)",
+    "33": "Acquisition Function Maximizer: Random Search (sorted)",
+    "34": "Acquisition Function Maximizer: Random Search (sorted)",
+    "35": "Random Search",
+    "36": "Random Search",
+    "37": "Random Search",
+    "38": "Acquisition Function Maximizer: Random Search (sorted)",
+    "39": "Acquisition Function Maximizer: Random Search (sorted)",
+    "40": "Acquisition Function Maximizer: Random Search (sorted)",
+    "41": "Acquisition Function Maximizer: Random Search (sorted)",
+    "42": "Acquisition Function Maximizer: Random Search (sorted)",
+    "43": "Acquisition Function Maximizer: Random Search (sorted)",
+    "44": "Acquisition Function Maximizer: Random Search (sorted)",
+    "45": "Random Search",
+    "46": "Acquisition Function Maximizer: Random Search (sorted)",
+    "47": "Random Search",
+    "48": "Acquisition Function Maximizer: Random Search (sorted)",
+    "49": "Acquisition Function Maximizer: Random Search (sorted)",
+    "50": "Acquisition Function Maximizer: Random Search (sorted)",
+    "51": "Acquisition Function Maximizer: Random Search (sorted)",
+    "52": "Acquisition Function Maximizer: Random Search (sorted)"
+  }
+}

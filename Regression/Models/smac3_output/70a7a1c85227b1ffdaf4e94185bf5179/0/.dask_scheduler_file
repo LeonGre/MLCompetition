@@ -1,0 +1,827 @@
+{
+  "type": "Scheduler",
+  "id": "Scheduler-a75bcd37-cfb0-478f-80de-fd8fc58f030a",
+  "address": "tcp://127.0.0.1:43553",
+  "services": {
+    "dashboard": 39161
+  },
+  "started": 1706377688.9329915,
+  "workers": {
+    "tcp://127.0.0.1:33129": {
+      "type": "Worker",
+      "id": 5,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-hj6y2a1t",
+      "name": 5,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377692.0021484,
+      "services": {
+        "dashboard": 33281
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 251756544,
+        "time": 1706377691.9758596,
+        "host_net_io": {
+          "read_bps": 130609.68570161592,
+          "write_bps": 130609.68570161592
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:35585"
+    },
+    "tcp://127.0.0.1:33643": {
+      "type": "Worker",
+      "id": 8,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-1u0exo47",
+      "name": 8,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377691.8334138,
+      "services": {
+        "dashboard": 43111
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 251133952,
+        "time": 1706377691.8091168,
+        "host_net_io": {
+          "read_bps": 960827.6244688126,
+          "write_bps": 960827.6244688126
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:34299"
+    },
+    "tcp://127.0.0.1:35073": {
+      "type": "Worker",
+      "id": 11,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-ug96xjhh",
+      "name": 11,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377691.7676864,
+      "services": {
+        "dashboard": 38143
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 250916864,
+        "time": 1706377691.7382455,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:41107"
+    },
+    "tcp://127.0.0.1:37005": {
+      "type": "Worker",
+      "id": 1,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-p1ek0xpo",
+      "name": 1,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377691.9804528,
+      "services": {
+        "dashboard": 37527
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 250765312,
+        "time": 1706377691.9490302,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:39343"
+    },
+    "tcp://127.0.0.1:37329": {
+      "type": "Worker",
+      "id": 7,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-129aidcx",
+      "name": 7,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377691.8096597,
+      "services": {
+        "dashboard": 34021
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 251047936,
+        "time": 1706377691.7822776,
+        "host_net_io": {
+          "read_bps": 258874.8812868953,
+          "write_bps": 258874.8812868953
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:38539"
+    },
+    "tcp://127.0.0.1:38757": {
+      "type": "Worker",
+      "id": 14,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-vlyz763s",
+      "name": 14,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377692.0334463,
+      "services": {
+        "dashboard": 33321
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 251232256,
+        "time": 1706377692.0124595,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:32849"
+    },
+    "tcp://127.0.0.1:39465": {
+      "type": "Worker",
+      "id": 12,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-7_vl9xkr",
+      "name": 12,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377692.0562892,
+      "services": {
+        "dashboard": 32851
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 250683392,
+        "time": 1706377692.0365913,
+        "host_net_io": {
+          "read_bps": 116528.65980032794,
+          "write_bps": 116528.65980032794
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:33049"
+    },
+    "tcp://127.0.0.1:40443": {
+      "type": "Worker",
+      "id": 6,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-6_4t_498",
+      "name": 6,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377691.970269,
+      "services": {
+        "dashboard": 42527
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 251432960,
+        "time": 1706377691.9457755,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:39623"
+    },
+    "tcp://127.0.0.1:41205": {
+      "type": "Worker",
+      "id": 2,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-2wc9acm8",
+      "name": 2,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377691.6317587,
+      "services": {
+        "dashboard": 44591
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 251080704,
+        "time": 1706377691.5992754,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:37897"
+    },
+    "tcp://127.0.0.1:41361": {
+      "type": "Worker",
+      "id": 4,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-38t39vo2",
+      "name": 4,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377692.0811834,
+      "services": {
+        "dashboard": 35939
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 251305984,
+        "time": 1706377692.0664248,
+        "host_net_io": {
+          "read_bps": 176250.36657681988,
+          "write_bps": 176250.36657681988
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:44689"
+    },
+    "tcp://127.0.0.1:42961": {
+      "type": "Worker",
+      "id": 9,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-24q0haen",
+      "name": 9,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377691.9756277,
+      "services": {
+        "dashboard": 43609
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 250585088,
+        "time": 1706377691.9484713,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:41051"
+    },
+    "tcp://127.0.0.1:43391": {
+      "type": "Worker",
+      "id": 13,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-fbnp0sgv",
+      "name": 13,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377692.0208447,
+      "services": {
+        "dashboard": 37399
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 251301888,
+        "time": 1706377692.0045838,
+        "host_net_io": {
+          "read_bps": 178051.86143059886,
+          "write_bps": 178051.86143059886
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:33495"
+    },
+    "tcp://127.0.0.1:43559": {
+      "type": "Worker",
+      "id": 10,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-6f7z7t66",
+      "name": 10,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377692.0693283,
+      "services": {
+        "dashboard": 41837
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 251420672,
+        "time": 1706377692.0526674,
+        "host_net_io": {
+          "read_bps": 219735.05185920445,
+          "write_bps": 219735.05185920445
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:43857"
+    },
+    "tcp://127.0.0.1:44345": {
+      "type": "Worker",
+      "id": 0,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-pk6uuimr",
+      "name": 0,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377691.9951215,
+      "services": {
+        "dashboard": 44771
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 251478016,
+        "time": 1706377691.9691722,
+        "host_net_io": {
+          "read_bps": 1302934.1192954679,
+          "write_bps": 1302934.1192954679
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:44053"
+    },
+    "tcp://127.0.0.1:45415": {
+      "type": "Worker",
+      "id": 15,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-e8z7qhqk",
+      "name": 15,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377692.0642638,
+      "services": {
+        "dashboard": 39317
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 251076608,
+        "time": 1706377692.0482728,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:39455"
+    },
+    "tcp://127.0.0.1:46821": {
+      "type": "Worker",
+      "id": 3,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/smac3_output/70a7a1c85227b1ffdaf4e94185bf5179/0/dask-scratch-space/worker-k_9tk8r6",
+      "name": 3,
+      "nthreads": 1,
+      "memory_limit": 2551204864,
+      "last_seen": 1706377692.0914273,
+      "services": {
+        "dashboard": 35219
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 250654720,
+        "time": 1706377692.0790117,
+        "host_net_io": {
+          "read_bps": 595570.448161984,
+          "write_bps": 595570.448161984
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 18
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:36087"
+    }
+  }
+}

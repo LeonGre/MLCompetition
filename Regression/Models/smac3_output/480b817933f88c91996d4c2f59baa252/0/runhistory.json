@@ -1,0 +1,1688 @@
+{
+  "stats": {
+    "submitted": 100,
+    "finished": 100,
+    "running": 0
+  },
+  "data": [
+    [
+      1,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363387.9340937,
+      1706363387.9356575,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      2,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363387.9552975,
+      1706363387.9565282,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      1,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363387.97694,
+      1706363387.9779594,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      3,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363387.9786084,
+      1706363387.9796422,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      4,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363387.985106,
+      1706363387.986624,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      1,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.0066748,
+      1706363388.0076883,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      3,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.0159378,
+      1706363388.017084,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      4,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.0179634,
+      1706363388.0190015,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      5,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.0384839,
+      1706363388.0390482,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      3,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.0470314,
+      1706363388.0480175,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      4,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.0570927,
+      1706363388.0583313,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      5,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.0674703,
+      1706363388.0684733,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      6,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.0785244,
+      1706363388.079555,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      5,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.089674,
+      1706363388.090726,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      6,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.1105275,
+      1706363388.1115165,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      7,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.1124635,
+      1706363388.1139956,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      8,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.1209474,
+      1706363388.1216123,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      6,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.1325314,
+      1706363388.1331813,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      7,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.1529977,
+      1706363388.1549354,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      8,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.1646357,
+      1706363388.1657212,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      9,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.1677256,
+      1706363388.1687214,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      7,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.1864367,
+      1706363388.1887648,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      8,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.2091115,
+      1706363388.210237,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      9,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.2117162,
+      1706363388.2124586,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      10,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.2184422,
+      1706363388.2191453,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      11,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.2403066,
+      1706363388.2411997,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      9,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.2511842,
+      1706363388.2518861,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      10,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.253325,
+      1706363388.255474,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      11,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.2731407,
+      1706363388.2746081,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      10,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.2834952,
+      1706363388.2840462,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      12,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.2853627,
+      1706363388.2859483,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      11,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.306583,
+      1706363388.3075433,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      12,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.315897,
+      1706363388.3165786,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      13,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.327714,
+      1706363388.328385,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      12,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.3435953,
+      1706363388.3444965,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      13,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.354127,
+      1706363388.3549962,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      14,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.3602874,
+      1706363388.3611147,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      15,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.369327,
+      1706363388.3709815,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      13,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.3917265,
+      1706363388.392882,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      14,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.4082632,
+      1706363388.4090242,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      15,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.4274185,
+      1706363388.428775,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      14,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.4294622,
+      1706363388.4313226,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      16,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.4360251,
+      1706363388.436727,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      15,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.4585063,
+      1706363388.459304,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      16,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.4676101,
+      1706363388.4682348,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      17,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.482441,
+      1706363388.4832551,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      16,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.4933257,
+      1706363388.4939184,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      17,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.5052726,
+      1706363388.505913,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      18,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.5206282,
+      1706363388.5213804,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      17,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.522425,
+      1706363388.5231228,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      19,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.531058,
+      1706363388.5316849,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      18,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.5452566,
+      1706363388.5459113,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      19,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.5627735,
+      1706363388.563544,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      18,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.5788157,
+      1706363388.579693,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      19,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.5952647,
+      1706363388.5964313,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      20,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.6044903,
+      1706363388.6054595,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      21,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.867995,
+      1706363388.8688605,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      20,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.8900287,
+      1706363388.890861,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      21,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.8927894,
+      1706363388.8934739,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      22,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.8982234,
+      1706363388.899523,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      20,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.9196267,
+      1706363388.9203386,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      21,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.9292939,
+      1706363388.9298954,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      22,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.9315982,
+      1706363388.932266,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      23,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.9506135,
+      1706363388.9514918,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      22,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.9604077,
+      1706363388.961938,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      23,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.98391,
+      1706363388.9847386,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      24,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.986059,
+      1706363388.9870896,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      25,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363388.9948444,
+      1706363388.9966567,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      23,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.014267,
+      1706363389.0151784,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      24,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.035476,
+      1706363389.0364745,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      25,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.0467834,
+      1706363389.0475216,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      26,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.0565324,
+      1706363389.057696,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      24,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.0668,
+      1706363389.0685263,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      25,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.089695,
+      1706363389.0904355,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      26,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.1049259,
+      1706363389.1055446,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      27,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.116229,
+      1706363389.116852,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      26,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.1269183,
+      1706363389.1275306,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      27,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.138106,
+      1706363389.13895,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      28,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.153745,
+      1706363389.1543953,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      27,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.1636505,
+      1706363389.1642594,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      29,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.4511654,
+      1706363389.4527805,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      28,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.4706388,
+      1706363389.4714708,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      29,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.493046,
+      1706363389.4940715,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      28,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.5031579,
+      1706363389.5044873,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      30,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.5131562,
+      1706363389.514182,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      29,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.523675,
+      1706363389.5244982,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      31,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.5332701,
+      1706363389.5341394,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      30,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.5581465,
+      1706363389.5587626,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      31,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.5697625,
+      1706363389.5704217,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      32,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.5748146,
+      1706363389.5755577,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      30,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.5905774,
+      1706363389.591573,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      31,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.6018033,
+      1706363389.6035526,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      32,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.6233146,
+      1706363389.6244574,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      33,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.6332867,
+      1706363389.6339738,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      32,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.6541097,
+      1706363389.6548645,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      33,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.6649547,
+      1706363389.6658473,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      34,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.6676776,
+      1706363389.6683433,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      35,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.68601,
+      1706363389.6865752,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      33,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.7063146,
+      1706363389.7068577,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ],
+    [
+      34,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1706363389.7215047,
+      1706363389.7220373,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/leon/.conda/envs/SeminarIntelligentSystemsRegression/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in ensemble_error\n    weights = [float(w) for w in weights]\n  File \"/home/leon/PycharmProjects/SeminarIntelligentSystemsRegression/Models/ensemble_trainer.py\", line 26, in <listcomp>\n    weights = [float(w) for w in weights]\nValueError: could not convert string to float: 'weight1'\n",
+        "error": "ValueError(\"could not convert string to float: 'weight1'\")"
+      }
+    ]
+  ],
+  "configs": {
+    "1": {
+      "weight1": 0.2668785210698843,
+      "weight2": 0.6205646954476833
+    },
+    "2": {
+      "weight1": 0.6341031137853861,
+      "weight2": 0.21299850568175316
+    },
+    "3": {
+      "weight1": 0.8783407658338547,
+      "weight2": 0.8025208553299308
+    },
+    "4": {
+      "weight1": 0.02679840847849846,
+      "weight2": 0.39514563884586096
+    },
+    "5": {
+      "weight1": 0.24376627150923014,
+      "weight2": 0.9300522236153483
+    },
+    "6": {
+      "weight1": 0.8452418493106961,
+      "weight2": 0.27462226431816816
+    },
+    "7": {
+      "weight1": 0.605218960903585,
+      "weight2": 0.7410996705293655
+    },
+    "8": {
+      "weight1": 0.48793144803494215,
+      "weight2": 0.08549447357654572
+    },
+    "9": {
+      "weight1": 0.4273283528164029,
+      "weight2": 0.8536431714892387
+    },
+    "10": {
+      "weight1": 0.5444921487942338,
+      "weight2": 0.44851838797330856
+    },
+    "11": {
+      "weight1": 0.7887832103297114,
+      "weight2": 0.5357519192621112
+    },
+    "12": {
+      "weight1": 0.18717957939952612,
+      "weight2": 0.13081810902804136
+    },
+    "13": {
+      "weight1": 0.09106766618788242,
+      "weight2": 0.6650838321074843
+    },
+    "14": {
+      "weight1": 0.9427265878766775,
+      "weight2": 0.008189029060304165
+    },
+    "15": {
+      "weight1": 0.7025282196700573,
+      "weight2": 0.9762838669121265
+    },
+    "16": {
+      "weight1": 0.3354235738515854,
+      "weight2": 0.3192138262093067
+    },
+    "17": {
+      "weight1": 0.36603888124227524,
+      "weight2": 0.9375940002501011
+    },
+    "18": {
+      "weight1": 0.7331854738295078,
+      "weight2": 0.34516019001603127
+    },
+    "19": {
+      "weight1": 0.9735784064978361,
+      "weight2": 0.6393048381432891
+    },
+    "20": {
+      "weight1": 0.1219919491559267,
+      "weight2": 0.04668005462735891
+    },
+    "21": {
+      "weight1": 0.8917730007820798,
+      "weight2": 0.08712929970154071
+    },
+    "22": {
+      "weight1": 0.7151893663724195,
+      "weight2": 0.3834415188257777
+    },
+    "23": {
+      "weight1": 0.6458941130666561,
+      "weight2": 0.925596638292661
+    },
+    "24": {
+      "weight1": 0.6027633760716439,
+      "weight2": 0.7917250380826646
+    },
+    "25": {
+      "weight1": 0.5488135039273248,
+      "weight2": 0.9636627605010293
+    },
+    "26": {
+      "weight1": 0.5448831829968969,
+      "weight2": 0.5288949197529045
+    },
+    "27": {
+      "weight1": 0.4375872112626925,
+      "weight2": 0.07103605819788694
+    },
+    "28": {
+      "weight1": 0.4236547993389047,
+      "weight2": 0.5680445610939323
+    },
+    "29": {
+      "weight1": 0.02021839744032572,
+      "weight2": 0.11827442586893322
+    },
+    "30": {
+      "weight1": 0.7991585642167236,
+      "weight2": 0.4146619399905236
+    },
+    "31": {
+      "weight1": 0.7781567509498505,
+      "weight2": 0.1433532874090464
+    },
+    "32": {
+      "weight1": 0.978618342232764,
+      "weight2": 0.5218483217500717
+    },
+    "33": {
+      "weight1": 0.8700121482468192,
+      "weight2": 0.9446689170495839
+    },
+    "34": {
+      "weight1": 0.832619845547938,
+      "weight2": 0.6399210213275238
+    },
+    "35": {
+      "weight1": 0.45615033221654855,
+      "weight2": 0.5684339488686485
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial Design: Sobol",
+    "3": "Initial Design: Sobol",
+    "4": "Initial Design: Sobol",
+    "5": "Initial Design: Sobol",
+    "6": "Initial Design: Sobol",
+    "7": "Initial Design: Sobol",
+    "8": "Initial Design: Sobol",
+    "9": "Initial Design: Sobol",
+    "10": "Initial Design: Sobol",
+    "11": "Initial Design: Sobol",
+    "12": "Initial Design: Sobol",
+    "13": "Initial Design: Sobol",
+    "14": "Initial Design: Sobol",
+    "15": "Initial Design: Sobol",
+    "16": "Initial Design: Sobol",
+    "17": "Initial Design: Sobol",
+    "18": "Initial Design: Sobol",
+    "19": "Initial Design: Sobol",
+    "20": "Initial Design: Sobol",
+    "21": "Acquisition Function Maximizer: Random Search (sorted)",
+    "22": "Acquisition Function Maximizer: Random Search (sorted)",
+    "23": "Acquisition Function Maximizer: Random Search (sorted)",
+    "24": "Acquisition Function Maximizer: Random Search (sorted)",
+    "25": "Acquisition Function Maximizer: Random Search (sorted)",
+    "26": "Acquisition Function Maximizer: Random Search (sorted)",
+    "27": "Acquisition Function Maximizer: Random Search (sorted)",
+    "28": "Acquisition Function Maximizer: Random Search (sorted)",
+    "29": "Acquisition Function Maximizer: Random Search (sorted)",
+    "30": "Acquisition Function Maximizer: Random Search (sorted)",
+    "31": "Acquisition Function Maximizer: Random Search (sorted)",
+    "32": "Acquisition Function Maximizer: Random Search (sorted)",
+    "33": "Acquisition Function Maximizer: Random Search (sorted)",
+    "34": "Acquisition Function Maximizer: Random Search (sorted)",
+    "35": "Random Search"
+  }
+}
